@@ -1,0 +1,39 @@
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coronavirus</title>
+</head>
+<body>
+        <header>
+            <h2><b>Coronavírus:</b></h2>
+            <p>O que a fake news prejudica?</p>
+        </header>
+        <nav>
+            <ul>
+                <li>&#9776;</li>
+                <li><a href="index.html">Início</a></li>
+                <li><a href="pagina2.html">Como prejudica no vírus</a></li>
+                <li><a href="pagina3.html">Como denunciar</a></li>
+            </ul>
+        </nav>
+        <div class="container">
+            <div class="texto">
+                <h2><b>O que são fake news?</b></h2>
+                <p>Os motivos para que sejam criadas notícias falsas são diversos. Em alguns casos, os autores criam manchetes absurdas com o claro intuito de atrair acessos aos sites e, assim, faturar com a publicidade digital.</p>
+                <p>No entanto, além da finalidade puramente comercial, as fake news podem ser usadas apenas para criar boatos e reforçar um pensamento, por meio de mentiras e da disseminação de ódio. Dessa maneira, prejudicam-se pessoas comuns, celebridades, políticos e empresas.</p>
+                <p>É isso o que acontece, por exemplo, durante períodos eleitorais, nos quais empresas especializadas criam boatos, que são disseminados em grande escala na rede, alcançando milhões de usuários. O Departamento de Justiça Americano denunciou três agências russas, afirmando que elas teriam espalhado informações falsas na internet e influenciarem as eleições norte-americanas de 2016.</p>
+                <p>Existem grupos específicos que trabalham espalhando boatos. No entanto, não é fácil encontrar as empresas que atuam nesse segmento, pois elas operam na chamada deep web, isto é, uma parte da rede que não é indexada pelos mecanismos de buscas, ficando oculta ao grande público.</p>
+                <a href="https://mundoeducacao.uol.com.br/curiosidades/fake-news.htm">Fonte</a>
+            </div>
+            <aside><img src="images/fakenews.jpg" alt=""></aside>
+
+        </div>
+
+        <footer>Hamilto Anacleto</footer>
+
+</body>
+</html>
